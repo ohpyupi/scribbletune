@@ -1,5 +1,8 @@
 import { getChord } from './chord';
 
+
+
+
 /**
  * Take an array and fill it with it s own elements in the next octave till it s of the specified `len`
  * @param  {Array} arr e.g. ['a4', 'b4']
